@@ -1,19 +1,16 @@
-### 안녕하세요 데이비드의 Root RePo 입니다 👋
+### 안녕하세요 데이비드의 Root RePository 입니다 👋
 - 🔭 현재 iOS 개발자 취업준비중입니다...
-- 🌱 지금은 제가 진행한 프로젝트의를 GitHub Repo 총 N개 공개해놨습니다
-- 브랜치를 통해서 제 프로젝트를 한번에 다운로드하실수있습니다 브랜치이름 = 프로젝트이름 
-- 👯 제프로젝트를 보고 같이 페어코딩이나 사이드를 같이하실분은 ~
-- ⚡ 제 기술블로그 또한 운영중이고 주소 https://david-shindj.github.io 입니다 
+- 🌱 제가 진행했던 프로젝트및 출시앱은 레지포토리목록을 통해서 확인가능합니다
+- 🤔 지금은 Swift JavaScript 언어에 관심을 가지고있습니다
+- 👯 제프로젝트를 보고 같이 페어코딩이나 사이드를 같이하실분은 글을 남겨주세요!
+- ⚡ 기술블로그를 운영및 업데이트중이고 링크 https://david-shindj.github.io
 
 <!--
 **David-ShinDJ/David-ShinDJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on AppleAcademy
+- 🌱 I’m currently learning Swift
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
